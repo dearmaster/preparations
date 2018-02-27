@@ -1,0 +1,40 @@
+线程池的实现原理
+ReentrantLock、AQS的源代码
+AtomicInteger的实现原理，主要能说清楚CAS机制并且AtomicInteger是如何利用CAS机制实现的
+Object类中的方法以及每个方法的作用
+
+union和union all的区别、left join、几种索引及其区别就不谈了，比较重要的就是数据库性能的优化，如果对于数据库的性能优化一窍不通，那么有时间，还是建议你在面试前花一两天专门把SQL基础和SQL优化的内容准备一下
+AVL树、红黑树，可以不了解它们的具体实现，但是要知道什么是二叉查找树、什么是平衡树，AVL树和红黑树的区别
+索引使用的是哪种数据结构实现
+Collections.sort方法使用的是哪种排序方法(增强型的归并排序法
+
+Java虚拟机的内存布局
+GC算法及几种垃圾收集器
+类加载机制，也就是双亲委派模型
+Java内存模型
+happens-before规则
+volatile关键字使用规则
+
+讲一下Session和Cookie的区别和联系以及Session的实现原理
+get/post的区别、forward/重定向的区别、HTTPS的实现原理
+谈谈分布式Session的几种实现方式
+
+https://www.cnblogs.com/java1024/p/7685400.html
+
+SOA和RPC
+
+java中有没有指针
+
+SpringMVC运行原理
+
+CopyOnWriteArrayList 
+
+死锁的必要条件
+
+进程间的通信方式
+
+在 Java 7 之前, switch 只能支持byte,short,char,int 或者其对应的封装类以及 Enum 类型。在Java 7中,String 支持被加上了
+
+wait()和sleep()的区别
+
+JAVA 中堆和栈的区别
